@@ -60,3 +60,4 @@ F:\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Drink\Details.cshtml.
 F:\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\About\Index.cshtml.g.cs
 F:\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Error\Error.cshtml.g.cs
 F:\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\DrinkOverviewSummary.cshtml.g.cs
+F:\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.csprojAssemblyReference.cache

@@ -59,7 +59,7 @@ using web_store.Data.Models;
             WriteLiteral("<li class=\"dropdown\">\r\n    ");
             EndContext();
             BeginContext(27, 141, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "97837a7ebc8d4613ad1e26a99b61a16e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5105c634e866426186bd2403ed72ecd5", async() => {
                 BeginContext(128, 36, true);
                 WriteLiteral("Напої<b class=\"caret\">\r\n        </b>");
                 EndContext();
@@ -94,7 +94,7 @@ using web_store.Data.Models;
             WriteLiteral("        <li>\r\n            ");
             EndContext();
             BeginContext(280, 130, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0fa100be5acc470782a24ecd501a970c", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4eed2feded4547b19a1f4c58e99c2ab3", async() => {
                 BeginContext(385, 21, false);
 #line 10 "F:\web_store\web_store\Views\Shared\Components\CategoryMenu\Default.cshtml"
                                                       Write(category.CategoryName);
@@ -143,7 +143,7 @@ using web_store.Data.Models;
             WriteLiteral("        <li class=\"divider\"></li>\r\n        <li>\r\n            ");
             EndContext();
             BeginContext(501, 80, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2e15d16717994eb499899d71fae0b4ad", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7dae64a6d07845bdaa07454057fa5eb3", async() => {
                 BeginContext(567, 10, true);
                 WriteLiteral("Всі товари");
                 EndContext();

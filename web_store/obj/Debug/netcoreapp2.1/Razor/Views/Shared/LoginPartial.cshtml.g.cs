@@ -87,7 +87,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
             WriteLiteral("    ");
             EndContext();
             BeginContext(196, 303, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c9b0429e5f28428d9221f6694c375a55", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "97e06af9d5eb47d7b07ef1dda4496676", async() => {
                 BeginContext(321, 171, true);
                 WriteLiteral("\r\n        <ul class=\"nav navbar-nav navbar-right\">\r\n            <li><a href=\"javascript:document.getElementById(\'logoutForm\').submit()\">Вихід</a></li>\r\n        </ul>\r\n    ");
                 EndContext();
@@ -129,7 +129,7 @@ else
             WriteLiteral("    <ul class=\"nav navbar-nav navbar-right\">\r\n        <li>");
             EndContext();
             BeginContext(571, 84, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5a2d377d96484fe7a6aee89357351fad", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d1a826071dc54fd5b85482d5dddc08fe", async() => {
                 BeginContext(639, 12, true);
                 WriteLiteral(" Реєстрація ");
                 EndContext();
@@ -154,7 +154,7 @@ else
             WriteLiteral("</li>\r\n        <li>");
             EndContext();
             BeginContext(674, 72, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a723f2a51c764edd9685de1132989974", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4b756d753ee045afa7a609a60aa5d19a", async() => {
                 BeginContext(736, 6, true);
                 WriteLiteral(" Вхід ");
                 EndContext();
