@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\web_store\\web_store\\web_store.csproj": {}
+    "E:\\IT STEP\\ITStepGit\\1\\web_store\\web_store\\web_store.csproj": {}
   },
   "projects": {
-    "F:\\web_store\\web_store\\web_store.csproj": {
+    "E:\\IT STEP\\ITStepGit\\1\\web_store\\web_store\\web_store.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\web_store\\web_store\\web_store.csproj",
+        "projectUniqueName": "E:\\IT STEP\\ITStepGit\\1\\web_store\\web_store\\web_store.csproj",
         "projectName": "web_store",
-        "projectPath": "F:\\web_store\\web_store\\web_store.csproj",
+        "projectPath": "E:\\IT STEP\\ITStepGit\\1\\web_store\\web_store\\web_store.csproj",
         "packagesPath": "C:\\Users\\proro\\.nuget\\packages\\",
-        "outputPath": "F:\\web_store\\web_store\\obj\\",
+        "outputPath": "E:\\IT STEP\\ITStepGit\\1\\web_store\\web_store\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

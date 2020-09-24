@@ -61,3 +61,96 @@ F:\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\About\Index.cshtml.g.
 F:\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Error\Error.cshtml.g.cs
 F:\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\DrinkOverviewSummary.cshtml.g.cs
 F:\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.csprojAssemblyReference.cache
+C:\work\diploma\web_Store\web_store\bin\Debug\netcoreapp2.1\web_store.deps.json
+C:\work\diploma\web_Store\web_store\bin\Debug\netcoreapp2.1\web_store.runtimeconfig.json
+C:\work\diploma\web_Store\web_store\bin\Debug\netcoreapp2.1\web_store.runtimeconfig.dev.json
+C:\work\diploma\web_Store\web_store\bin\Debug\netcoreapp2.1\web_store.dll
+C:\work\diploma\web_Store\web_store\bin\Debug\netcoreapp2.1\web_store.pdb
+C:\work\diploma\web_Store\web_store\bin\Debug\netcoreapp2.1\web_store.Views.dll
+C:\work\diploma\web_Store\web_store\bin\Debug\netcoreapp2.1\web_store.Views.pdb
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\web_store.csprojAssemblyReference.cache
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\web_store.csproj.CoreCompileInputs.cache
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\web_store.RazorAssemblyInfo.cache
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\web_store.RazorAssemblyInfo.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\web_store.AssemblyInfoInputs.cache
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\web_store.AssemblyInfo.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\web_store.TagHelpers.input.cache
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\web_store.TagHelpers.output.cache
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\web_store.RazorCoreGenerate.cache
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\About\Index.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedIn.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Drink\Details.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Drink\List.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Error\Error.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Carousel.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CategoryMenu\Default.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\DrinkOverviewSummary.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\DrinksSummary.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\LoginPartial.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\ShoppingCart\Index.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\web_store.RazorTargetAssemblyInfo.cache
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\web_store.RazorTargetAssemblyInfo.cs
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\web_store.Views.pdb
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\web_store.dll
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\web_store.pdb
+C:\work\diploma\web_Store\web_store\obj\Debug\netcoreapp2.1\web_store.csproj.CopyComplete
+E:\IT STEP\ITStepGit\1\web_store\web_store\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\IT STEP\ITStepGit\1\web_store\web_store\bin\Debug\netcoreapp2.1\appsettings.json
+E:\IT STEP\ITStepGit\1\web_store\web_store\bin\Debug\netcoreapp2.1\package.json
+E:\IT STEP\ITStepGit\1\web_store\web_store\bin\Debug\netcoreapp2.1\project.json
+E:\IT STEP\ITStepGit\1\web_store\web_store\bin\Debug\netcoreapp2.1\web_store.deps.json
+E:\IT STEP\ITStepGit\1\web_store\web_store\bin\Debug\netcoreapp2.1\web_store.runtimeconfig.json
+E:\IT STEP\ITStepGit\1\web_store\web_store\bin\Debug\netcoreapp2.1\web_store.runtimeconfig.dev.json
+E:\IT STEP\ITStepGit\1\web_store\web_store\bin\Debug\netcoreapp2.1\web_store.dll
+E:\IT STEP\ITStepGit\1\web_store\web_store\bin\Debug\netcoreapp2.1\web_store.pdb
+E:\IT STEP\ITStepGit\1\web_store\web_store\bin\Debug\netcoreapp2.1\web_store.Views.dll
+E:\IT STEP\ITStepGit\1\web_store\web_store\bin\Debug\netcoreapp2.1\web_store.Views.pdb
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.csprojAssemblyReference.cache
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.AssemblyInfoInputs.cache
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.AssemblyInfo.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.csproj.CoreCompileInputs.cache
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.RazorAssemblyInfo.cache
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.RazorAssemblyInfo.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.TagHelpers.input.cache
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.TagHelpers.output.cache
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.RazorCoreGenerate.cache
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\About\Index.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Account\LoggedIn.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Account\Logout.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Contact\Index.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Drink\Details.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Drink\List.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Error\Error.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Carousel.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\DrinkOverviewSummary.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\DrinksSummary.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\LoginPartial.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.RazorTargetAssemblyInfo.cache
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.RazorTargetAssemblyInfo.cs
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.Views.pdb
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.dll
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.pdb
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.genruntimeconfig.cache
+E:\IT STEP\ITStepGit\1\web_store\web_store\obj\Debug\netcoreapp2.1\web_store.csproj.CopyComplete
